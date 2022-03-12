@@ -1,5 +1,16 @@
 # A wordle solver
 
+## Build & Run:
+
+Build program with:
+```
+$ make solver
+```
+Run program with:
+```
+$ ./solver
+```
+
 ## Steps:
 #### 1. Enter gray letters first as a string
 #### 2. Enter yellow letters and their positions
